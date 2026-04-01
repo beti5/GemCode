@@ -1,0 +1,12 @@
+# Local Claude / GemCode state
+.claude/settings.local.json
+claude-debug.log
+gemini-proxy.log
+gemini-proxy.err.log
+
+# Local transcript dumps
+????-??-??-*.txt
+
+# Windows / editor noise
+Thumbs.db
+.DS_Store
