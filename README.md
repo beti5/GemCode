@@ -139,14 +139,6 @@ Then relaunch:
 - `mascot-tools.ps1`: shared mascot helper logic
 - `stop-gemini-proxy.cmd`: stops the local proxy if needed
 
-## Local files that are intentionally not committed
-
-- `.claude/settings.local.json`
-- `claude-debug.log`
-- `gemini-proxy.log`
-- `gemini-proxy.err.log`
-- local transcript dump files like `2026-04-01-173521-hey.txt`
-
 ## Troubleshooting
 
 If GemCode says your Gemini key is missing, set `GEMINI_API_KEY` and open a new terminal.
