@@ -2,6 +2,7 @@
 
 ![Demo](assets/gem.gif)
 
+----
 GemCode lets you run the Claude Code terminal app with Gemini models on Windows.
 It keeps the Claude Code interface and tool workflow, but routes model requests through a local Anthropic-compatible Gemini proxy.
 
